@@ -1,0 +1,156 @@
+.native{
+  /* border: 1px solid red; */
+  width: 760px;
+  margin: 0 auto;
+  background: white;
+  height: 990px;
+}
+.leftA{
+  /* border: 1px solid gold; */
+  width: 200px;
+  float: left; 
+  margin-right: 10px;
+  
+}
+.zd{
+  width: 100%;
+  height: 235px;
+  border: 1px solid skyblue;
+  margin-bottom: 10px;
+}
+.zd_a{
+  text-align: center;
+  height: 35px;
+  background: url("../images/Left1.gif") no-repeat;
+  background-size: 100% 100%;
+  line-height: 35px;
+  color: #ffffff;
+}
+.zd_b {
+  width: 180px;
+  
+}
+.zd ul{
+  list-style: none;
+  padding-left: 0px;
+}
+.zd ul li span{
+  margin-left: 35px;
+}
+.btn{
+  text-align: center;
+  margin-top: -10px;
+  margin-bottom: 20px;
+}
+.zd p{
+  margin: 0;
+  padding-left: 5px;
+  font-size: 12px;
+  font-weight: 900;
+}
+.zd_a_p span{
+  float: left;
+  width: 33%;
+  text-align: center;
+}
+
+.lj{
+  width: 100%;
+  font-size: 13px;
+  margin: 20px 0;
+}
+.lj a{
+  text-decoration: none;
+  color: #000000;
+  font-size: 900;
+}
+.rightA{
+  border: 1px solid skyblue;
+  width: 540px;
+  float: left;
+  margin-top: 10px;
+}
+
+.parentWrap{   
+    overflow: hidden;  
+}   
+.parent{   
+    margin-right: -20px;   
+    overflow: hidden;  
+    border: 1px solid skyblue; 
+}   
+.child{   
+    float: left;   
+    height: 130px;   
+    width: 24%;   
+    /* padding-right: 20px;    */
+    box-sizing: border-box;   
+    background-clip: content-box;
+    text-align: center;
+    font-size: 14px;
+}  
+.child img{
+  width: 120px;
+  height: 90px;
+  margin: 5px auto;
+}
+.rightA .zd_a{
+  background: url("../images/Ttop.gif") no-repeat;
+  text-align: left;
+  background-size: 100% 100%;
+}
+
+.btm{
+  /* clear: both; */
+}
+
+.btm .btm_a{
+  margin-bottom: 10px;
+  width: 48%;
+  float: left;
+  padding: 0px 10px 0 0px;
+}
+.btm_zda_a{
+  width: 100%;
+  font-size: 12px;
+  height: 20px;
+}
+.spimg{
+  display: inline-block;
+  width: 10%;
+  text-align: center;
+}
+.spa{
+  display: inline-block;
+  width: 55%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+.spb{
+  display: inline-block;
+  width: 15%;
+}
+.spc{
+  display: inline-block;
+  width: 15%;
+}
+.db{
+  width: 760px;
+  margin: 10px auto;
+  background: white;
+  height: 150px;
+}
+.dbimg{
+  float: left;
+  height: 150px;
+  /* border: 1px solid red; */
+  line-height: 200px;
+  margin-left: 35px;
+}
+.db_p p{
+  padding-top: 10px;
+  margin: 0px 0;
+  text-align: center;
+  font-size: 14px;
+}
